@@ -1,4 +1,6 @@
+arrow==0.13.1
 Babel==2.3.4
+cachetools==3.1.0
 decorator==4.0.10
 docutils==0.12
 ebaysdk==2.1.4
@@ -9,9 +11,11 @@ Mako==1.0.4
 MarkupSafe==0.23
 mock==2.0.0
 ofxparse==0.15
+pandas==0.17.1
 passlib==1.6.5
 psutil==4.3.1
 psycogreen==1.0
+pycrypto==2.6.1
 pydot==1.2.3
 pyparsing==2.1.10
 pyPdf==1.13
@@ -33,4 +37,5 @@ Werkzeug==0.11.11
 wsgiref==0.1.2
 XlsxWriter==0.9.3
 xlwt==1.1.2
-pandas==0.17.1
+zalo-python-sdk
+
